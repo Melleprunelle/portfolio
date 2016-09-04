@@ -101,6 +101,18 @@ i {
     color: crimson;
 }
 
+i:hover {
+    color: yellowgreen;
+	animation-name: animation-header;
+	animation-iteration-count: infinite;
+	animation-timing-function: ease;
+    animation-duration: 5s;
+}
+
+@keyframes animation-header{
+   from {transform:rotate(0deg);} to {transform:rotate(360deg);}
+} 
+
 .header p {
     font-family: "Open Sans", sans-serif;
     padding-top: 30px;

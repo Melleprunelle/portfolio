@@ -1,3 +1,9 @@
+[class*="col-"] {
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+
 /* ==================== */
 /* ======= NAV ======== */
 /* ==================== */
@@ -126,20 +132,44 @@ header p {
 /* ==================== */
 
 .portfolio {
-    border: 1px solid crimson;
     width: 80%;
     height: 800px;
     margin-top: 50px;
 }
 
-.case-projet {
+.projet {
     height: 33.33%;
-    background-color: blue;
-    border: 1px solid red;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
+#projet1 {
+    background-image: url(../img/Capture%20du%202016-09-04%2013-44-01.png);
+}
 
+.projet-present p {
+    width: 90%;
+    text-align: center;
+    color: #fff;
+    cursor: default;
+}
 
+.projet .projet-present {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    opacity: 0;
+    transition: .3s;
+}
+
+.projet:hover .projet-present {
+    margin: 0px;
+    height: 100%;
+    background-color: yellowgreen;;
+    opacity: 10;
+    transition: .3s;
+}
 
 /* ==================== */
 /* ====== FOOTER ====== */

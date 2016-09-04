@@ -28,15 +28,79 @@
        
        <!-- PORTFOLIO -->
        <div class="portfolio row center-block">
-           <div class="col-md-4 case-projet"></div>
-           <div class="col-md-4 case-projet"></div>
-           <div class="col-md-4 case-projet"></div>
-           <div class="col-md-4 case-projet"></div>
-           <div class="col-md-4 case-projet"></div>
-           <div class="col-md-4 case-projet"></div>
-           <div class="col-md-4 case-projet"></div>
-           <div class="col-md-4 case-projet"></div>
-           <div class="col-md-4 case-projet"></div>
+          
+          
+           <div class="projet col-md-4" id="projet1">
+                       <div class="projet-present">
+                       <h3>Nom Projet</h3>
+                          <h4>Légende</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vitae suscipit nobis hic, facere ipsam ad ratione explicabo inventore blanditiis eius provident unde, repudiandae necessitatibus nam voluptatem, iusto delectus! Consectetur!.</p>
+                        </div>
+            </div>
+            
+            <div class="projet col-md-4" id="projet1">
+                       <div class="projet-present">
+                       <h3>Nom Projet</h3>
+                          <h4>Légende</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vitae suscipit nobis hic, facere ipsam ad ratione explicabo inventore blanditiis eius provident unde, repudiandae necessitatibus nam voluptatem, iusto delectus! Consectetur!.</p>
+                        </div>
+            </div>
+            
+            <div class="projet col-md-4" id="projet1">
+                       <div class="projet-present">
+                       <h3>Nom Projet</h3>
+                          <h4>Légende</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vitae suscipit nobis hic, facere ipsam ad ratione explicabo inventore blanditiis eius provident unde, repudiandae necessitatibus nam voluptatem, iusto delectus! Consectetur!.</p>
+                        </div>
+            </div>
+            
+            <div class="projet col-md-4" id="projet1">
+                       <div class="projet-present">
+                       <h3>Nom Projet</h3>
+                          <h4>Légende</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vitae suscipit nobis hic, facere ipsam ad ratione explicabo inventore blanditiis eius provident unde, repudiandae necessitatibus nam voluptatem, iusto delectus! Consectetur!.</p>
+                        </div>
+            </div>
+            
+            <div class="projet col-md-4" id="projet1">
+                       <div class="projet-present">
+                       <h3>Nom Projet</h3>
+                          <h4>Légende</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vitae suscipit nobis hic, facere ipsam ad ratione explicabo inventore blanditiis eius provident unde, repudiandae necessitatibus nam voluptatem, iusto delectus! Consectetur!.</p>
+                        </div>
+            </div>
+            
+            <div class="projet col-md-4" id="projet1">
+                       <div class="projet-present">
+                       <h3>Nom Projet</h3>
+                          <h4>Légende</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vitae suscipit nobis hic, facere ipsam ad ratione explicabo inventore blanditiis eius provident unde, repudiandae necessitatibus nam voluptatem, iusto delectus! Consectetur!.</p>
+                        </div>
+            </div>
+            
+            <div class="projet col-md-4" id="projet1">
+                       <div class="projet-present">
+                       <h3>Nom Projet</h3>
+                          <h4>Légende</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vitae suscipit nobis hic, facere ipsam ad ratione explicabo inventore blanditiis eius provident unde, repudiandae necessitatibus nam voluptatem, iusto delectus! Consectetur!.</p>
+                        </div>
+            </div>
+            
+            <div class="projet col-md-4" id="projet1">
+                       <div class="projet-present">
+                       <h3>Nom Projet</h3>
+                          <h4>Légende</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vitae suscipit nobis hic, facere ipsam ad ratione explicabo inventore blanditiis eius provident unde, repudiandae necessitatibus nam voluptatem, iusto delectus! Consectetur!.</p>
+                        </div>
+            </div>
+            
+            <div class="projet col-md-4" id="projet1">
+                       <div class="projet-present">
+                       <h3>Nom Projet</h3>
+                          <h4>Légende</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vitae suscipit nobis hic, facere ipsam ad ratione explicabo inventore blanditiis eius provident unde, repudiandae necessitatibus nam voluptatem, iusto delectus! Consectetur!.</p>
+                        </div>
+            </div>
        </div>
    </div> 
        <!-- FOOTER -->

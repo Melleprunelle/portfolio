@@ -59,7 +59,7 @@
 /* ===== HEADER ======= */
 /* ==================== */
 
-.header {
+header {
     width: 100%;
     margin-top: 70px;
     text-transform: uppercase;
@@ -73,7 +73,7 @@
     font-size: 5.5em;
 }
 
-.header h2 {
+h2 {
     color: yellowgreen;
     font-size: 2.9em;
     padding-bottom: 30px;
@@ -96,12 +96,12 @@
     padding-bottom: 60px;
 }
 
-i {
+header i {
     text-align: center;
     color: crimson;
 }
 
-i:hover {
+header i:hover {
     color: yellowgreen;
 	animation-name: animation-header;
 	animation-iteration-count: infinite;
@@ -113,10 +113,66 @@ i:hover {
    from {transform:rotate(0deg);} to {transform:rotate(360deg);}
 } 
 
-.header p {
+header p {
     font-family: "Open Sans", sans-serif;
     padding-top: 30px;
     padding-bottom: 60px;
     text-transform: lowercase;
     text-align: center;
+}
+
+/* ==================== */
+/* ===== PORTFOLIO ==== */
+/* ==================== */
+
+.portfolio {
+    border: 1px solid crimson;
+    width: 80%;
+    height: 600px;
+    margin-top: 50px;
+}
+
+
+/* ==================== */
+/* ====== FOOTER ====== */
+/* ==================== */
+
+footer {
+    width: 100%;
+    border-top: 1px solid crimson;
+    /*background-color: crimson;*/
+    padding-left: 0px;
+    margin-top: 112px;
+    text-align: center;
+    text-transform: lowercase;
+    font-family: 'Open Sans', sans-serif,
+}
+
+footer i {
+    padding-top: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    color: crimson;
+}
+
+footer a {
+    font-size: 0.5em;
+    font-family: 'Open Sans', sans-serif;
+    color: crimson;
+}
+
+footer a:hover {
+    font-size: 0.5em;
+    font-family: 'Open Sans', sans-serif;
+    color: yellowgreen;
+    text-decoration: none:
+}
+
+footer i:hover {
+    color: yellowgreen;
+}
+
+footer p {
+    padding-bottom: 10px;
 }

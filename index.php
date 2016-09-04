@@ -26,7 +26,10 @@
        <!-- HEADER -->
        <?php include 'header.php'; ?>
        
-
+       <!-- PORTFOLIO -->
+       <div class="portfolio row center-block"></div>
    </div> 
+       <!-- FOOTER -->
+           <?php include 'footer.php'; ?>
 </body>
 </html>

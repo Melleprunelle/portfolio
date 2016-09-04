@@ -19,7 +19,11 @@
 </head>
 <body>
    <div class="container-fluid">
+       <!-- NAVBAR -->
        <?php include 'nav.php'; ?>
+       
+       <!-- HEADER -->
+       <?php include 'header.php'; ?>
    </div>
     
 </body>

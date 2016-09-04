@@ -1,0 +1,41 @@
+/* ==================== */
+/* ======= NAV ======== */
+/* ==================== */
+
+#startbootstrap_nav {
+    color: crimson;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 1.5em;
+    text-transform: lowercase;
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+
+#myNavbar {
+    border-bottom: 1px solid crimson;
+}
+
+.navbar-nav > li > a {
+    color: crimson;
+    padding-top: 30px;
+    margin-right: 15px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.navbar-nav > li > a:hover {
+    color: white;
+    background-color: crimson;
+    padding-top: 30px;
+    margin-right: 15px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.navbar-nav:active {
+    color: white;
+    background-color: crimson;
+    padding-top: 30px;
+    margin-right: 15px;
+    font-family: "Open Sans", sans-serif;
+}
+

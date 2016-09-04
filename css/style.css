@@ -44,14 +44,6 @@
     font-family: "Open Sans", sans-serif;
 }
 
-.navbar-nav:active {
-    color: white;
-    background-color: crimson;
-    padding-top: 30px;
-    margin-right: 15px;
-    font-family: "Open Sans", sans-serif;
-}
-
 .navbar-toggle {
     margin-top: 25px;
 }
@@ -187,6 +179,11 @@ color: #fff;
     cursor: default;
 }
 
+.projet a {
+    text-align: center;
+    text-decoration: none;
+}
+
 
 
 /* ==================== */
@@ -247,7 +244,7 @@ color: #fff;
 
 
 footer {
-    margin-top: 50px;
+    margin-top: 60px;
     border-top: 1px solid crimson;
     text-align: center;
     text-transform: lowercase;

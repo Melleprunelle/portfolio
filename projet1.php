@@ -25,13 +25,11 @@
                 <div class="pageprojet center-block">
                     <div class="col-md-6 contenu">
                         <div class="apercu col-md-12"></div>
-                        <div class="apercu2 col-md-12"><p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, sapiente impedit architecto aut quaerat ratione ullam dolorum porro cum. Tenetur dolores nesciunt cum illum ipsum culpa perspiciatis quidem, rem officiis?
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sequi temporibus consectetur, in rerum esse iure, cupiditate voluptatum ipsum, minus, reiciendis voluptate ipsam aliquam nulla. Voluptate at, fugiat explicabo et!
-                        </p></div>
+                        <div class="apercu2 col-md-12">
+                            <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, sapiente impedit architecto aut quaerat ratione ullam dolorum porro cum. Tenetur dolores nesciunt cum illum ipsum culpa perspiciatis quidem, rem officiis? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sequi temporibus consectetur, in rerum esse iure, cupiditate voluptatum ipsum, minus, reiciendis voluptate ipsam aliquam nulla. Voluptate at, fugiat explicabo et! </p>
+                        </div>
                     </div>
-                    <div class="col-md-6">
-                        <pre>
+                    <div class="col-md-6"> <pre>
                             <code>
                                 <span class="code">{ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis magni fugiat fuga, recusandae ad tempora. In quasi atque repellendus enim nam earum eaque praesentium odio, rerum vitae id, quo ut. }</span>
                                 
@@ -43,13 +41,11 @@
                                 
                                 <span class="code">{ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis magni fugiat fuga, recusandae ad tempora. In quasi atque repellendus enim nam earum eaque praesentium odio, rerum vitae id, quo ut. }</span>
                                 
-                                <span>{ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis magni fugiat fuga, recusandae ad tempora. In quasi atque repellendus enim nam earum eaque praesentium odio, rerum vitae id, quo ut. }</span class="code">
+                                <span class="code">{ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis magni fugiat fuga, recusandae ad tempora. In quasi atque repellendus enim nam earum eaque praesentium odio, rerum vitae id, quo ut. }</span>
                                 
                                 <span class="code">{ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis magni fugiat fuga, recusandae ad tempora. In quasi atque repellendus enim nam earum eaque praesentium odio, rerum vitae id, quo ut. }</span>
                             </code>
-                        </pre>
-                    </div>
-                </div>
+                        </pre> </div> <i class="fa fa-chevron-left fa-2x col-md-6" aria-hidden="true"></i> <i class="fa fa-chevron-right fa-2x col-md-6" aria-hidden="true"></i> </div>
                 <!-- FOOTER -->
                 <?php include 'footer.php'; ?>
     </div>

@@ -1,6 +1,6 @@
 [class*="col-"] {
-	padding-right: 0px;
-	padding-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
 }
 
 
@@ -27,6 +27,7 @@
 .navbar-header {
     background-color: white;
 }
+
 .navbar-nav > li > a {
     color: crimson;
     margin-top: 0px;
@@ -101,15 +102,20 @@ header i {
 
 header i:hover {
     color: yellowgreen;
-	animation-name: animation-header;
-	animation-iteration-count: infinite;
-	animation-timing-function: ease;
+    animation-name: animation-header;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease;
     animation-duration: 5s;
 }
 
-@keyframes animation-header{
-   from {transform:rotate(0deg);} to {transform:rotate(360deg);}
-} 
+@keyframes animation-header {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
 
 header p {
     font-family: "Open Sans", sans-serif;
@@ -118,6 +124,7 @@ header p {
     text-transform: lowercase;
     text-align: center;
 }
+
 
 /* ==================== */
 /* ===== PORTFOLIO ==== */
@@ -155,21 +162,22 @@ header p {
 .projet:hover .projet-present {
     margin: 0px;
     height: 100%;
-    background-color: yellowgreen;;
+    background-color: yellowgreen;
+    ;
     opacity: 10;
     transition: .3s;
 }
 
 .projet h3 {
     font-size: 250%;
-color: #fff;
+    color: #fff;
 }
 
 .projet h4 {
-     width: 75%;
+    width: 75%;
     text-align: center;
     font-size: 18px;
-color: #fff;
+    color: #fff;
 }
 
 .projet p {
@@ -185,11 +193,9 @@ color: #fff;
 }
 
 
-
 /* ==================== */
 /* ====== PROJET ====== */
 /* ==================== */
-
 
 #projet1 {
     background-image: url(../img/img1.png);
@@ -241,7 +247,6 @@ color: #fff;
 /* ===== PAGETYPE ===== */
 /* ==================== */
 
-
 .page p {
     font-size: 1.3em;
     max-width: 80%;
@@ -257,6 +262,12 @@ color: #fff;
 
 .contenu {
     height: 100%;
+}
+
+.fa-chevron-right, .fa-chevron-left {
+    color: crimson;
+    text-align: center;
+    margin-bottom: 50px;
 }
 
 .apercu {
@@ -303,7 +314,7 @@ pre code {
     margin-left: 10%;
 }
 
-.code{
+.code {
     color: dimgrey;
     font-family: 'Open Sans' sans-serif;
     width: 75%;
@@ -311,10 +322,32 @@ pre code {
     padding-bottom: 25px;
 }
 
+
+/* ==================== */
+/* ====== CONTACT ===== */
+/* ==================== */
+
+label {
+    color: crimson;
+}
+
+form {
+    margin-bottom: 50px;
+}
+
+button {
+    background-color: crimson;
+    color: white;
+}
+
+button:hover {
+    background-color: yellowgreen;
+}
+
+
 /* ==================== */
 /* ====== FOOTER ====== */
 /* ==================== */
-
 
 footer {
     margin-top: 60px;

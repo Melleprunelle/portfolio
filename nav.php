@@ -6,11 +6,11 @@
         <span class="icon-bar icon_nav"></span>
         <span class="icon-bar icon_nav"></span>                        
       </button>
-      <a id="startbootstrap_nav" class="navbar-brand" href="#">hello word</a>
+      <a id="startbootstrap_nav" class="navbar-brand" href="index.php">hello word</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li class="active"><a class="liens_nav" href="#">ACCUEIL</a></li>
+        <li class="active"><a class="liens_nav" href="index.php">ACCUEIL</a></li>
         <li class="active"><a class="liens_nav" href="#">WEB</a></li>
         <li class="active"><a class="liens_nav" href="#">BACK</a></li>
         <li class="active"><a class="liens_nav" href="#">CONTACT</a></li>

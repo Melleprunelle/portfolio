@@ -27,7 +27,17 @@
        <?php include 'header.php'; ?>
        
        <!-- PORTFOLIO -->
-       <div class="portfolio row center-block"></div>
+       <div class="portfolio row center-block">
+           <div class="col-md-4 case-projet"></div>
+           <div class="col-md-4 case-projet"></div>
+           <div class="col-md-4 case-projet"></div>
+           <div class="col-md-4 case-projet"></div>
+           <div class="col-md-4 case-projet"></div>
+           <div class="col-md-4 case-projet"></div>
+           <div class="col-md-4 case-projet"></div>
+           <div class="col-md-4 case-projet"></div>
+           <div class="col-md-4 case-projet"></div>
+       </div>
    </div> 
        <!-- FOOTER -->
            <?php include 'footer.php'; ?>

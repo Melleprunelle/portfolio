@@ -128,9 +128,17 @@ header p {
 .portfolio {
     border: 1px solid crimson;
     width: 80%;
-    height: 600px;
+    height: 800px;
     margin-top: 50px;
 }
+
+.case-projet {
+    height: 33.33%;
+    background-color: blue;
+    border: 1px solid red;
+}
+
+
 
 
 /* ==================== */

@@ -133,18 +133,14 @@ header p {
 
 .portfolio {
     width: 80%;
-    height: 800px;
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .projet {
-    height: 33.33%;
+    height: 300px;
     background-size: cover;
     background-repeat: no-repeat;
-}
-
-#projet1 {
-    background-image: url(../img/Capture%20du%202016-09-04%2013-44-01.png);
 }
 
 .projet-present p {
@@ -156,6 +152,7 @@ header p {
 
 .projet .projet-present {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 100%;
@@ -171,16 +168,87 @@ header p {
     transition: .3s;
 }
 
+.projet h3 {
+    font-size: 250%;
+color: #fff;
+}
+
+.projet h4 {
+     width: 75%;
+    text-align: center;
+    font-size: 18px;
+color: #fff;
+}
+
+.projet p {
+    width: 90%;
+    text-align: center;
+    color: #fff;
+    cursor: default;
+}
+
+
+
+/* ==================== */
+/* ====== PROJET ====== */
+/* ==================== */
+
+
+#projet1 {
+    background-image: url(../img/img1.png);
+    background-position: center;
+}
+
+#projet2 {
+    background-image: url(../img/img2.png);
+    background-position: center;
+}
+
+#projet3 {
+    background-image: url(../img/img3.png);
+    background-position: center;
+}
+
+#projet4 {
+    background-image: url(../img/img4.png);
+    background-position: center;
+}
+
+#projet5 {
+    background-image: url(../img/img5.png);
+    background-position: center;
+}
+
+#projet6 {
+    background-image: url(../img/img7.png);
+    background-position: center;
+}
+
+#projet7 {
+    background-image: url(../img/img8.png);
+    background-position: center;
+}
+
+#projet8 {
+    background-image: url(../img/img9.png);
+    background-position: center;
+}
+
+#projet9 {
+    background-image: url(../img/img10.png);
+    background-position: center;
+}
+
+
+
 /* ==================== */
 /* ====== FOOTER ====== */
 /* ==================== */
 
+
 footer {
-    width: 100%;
+    margin-top: 50px;
     border-top: 1px solid crimson;
-    /*background-color: crimson;*/
-    padding-left: 0px;
-    margin-top: 112px;
     text-align: center;
     text-transform: lowercase;
     font-family: 'Open Sans', sans-serif,

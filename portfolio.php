@@ -1,0 +1,66 @@
+<div class="portfolio row center-block">
+          
+          
+           <div class="projet col-md-4" id="projet1">
+                       <div class="projet-present">
+                       <h3>Nom Projet</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vitae suscipit nobis hic, facere ipsam ad ratione explicabo inventore blanditiis eius provident unde, repudiandae necessitatibus nam voluptatem, iusto delectus! Consectetur!.</p>
+                        </div>
+            </div>
+            
+            <div class="projet col-md-4" id="projet2">
+                       <div class="projet-present">
+                       <h3>Nom Projet</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vitae suscipit nobis hic, facere ipsam ad ratione explicabo inventore blanditiis eius provident unde, repudiandae necessitatibus nam voluptatem, iusto delectus! Consectetur!.</p>
+                        </div>
+            </div>
+            
+            <div class="projet col-md-4" id="projet3">
+                       <div class="projet-present">
+                       <h3>Nom Projet</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vitae suscipit nobis hic, facere ipsam ad ratione explicabo inventore blanditiis eius provident unde, repudiandae necessitatibus nam voluptatem, iusto delectus! Consectetur!.</p>
+                        </div>
+            </div>
+            
+            <div class="projet col-md-4" id="projet4">
+                       <div class="projet-present">
+                       <h3>Nom Projet</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vitae suscipit nobis hic, facere ipsam ad ratione explicabo inventore blanditiis eius provident unde, repudiandae necessitatibus nam voluptatem, iusto delectus! Consectetur!.</p>
+                        </div>
+            </div>
+            
+            <div class="projet col-md-4" id="projet5">
+                       <div class="projet-present">
+                       <h3>Nom Projet</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vitae suscipit nobis hic, facere ipsam ad ratione explicabo inventore blanditiis eius provident unde, repudiandae necessitatibus nam voluptatem, iusto delectus! Consectetur!.</p>
+                        </div>
+            </div>
+            
+            <div class="projet col-md-4" id="projet6">
+                       <div class="projet-present">
+                       <h3>Nom Projet</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vitae suscipit nobis hic, facere ipsam ad ratione explicabo inventore blanditiis eius provident unde, repudiandae necessitatibus nam voluptatem, iusto delectus! Consectetur!.</p>
+                        </div>
+            </div>
+            
+            <div class="projet col-md-4" id="projet7">
+                       <div class="projet-present">
+                       <h3>Nom Projet</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vitae suscipit nobis hic, facere ipsam ad ratione explicabo inventore blanditiis eius provident unde, repudiandae necessitatibus nam voluptatem, iusto delectus! Consectetur!.</p>
+                        </div>
+            </div>
+            
+            <div class="projet col-md-4" id="projet8">
+                       <div class="projet-present">
+                       <h3>Nom Projet</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vitae suscipit nobis hic, facere ipsam ad ratione explicabo inventore blanditiis eius provident unde, repudiandae necessitatibus nam voluptatem, iusto delectus! Consectetur!.</p>
+                        </div>
+            </div>
+            
+            <div class="projet col-md-4" id="projet9">
+                       <div class="projet-present">
+                       <h3>Nom Projet</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vitae suscipit nobis hic, facere ipsam ad ratione explicabo inventore blanditiis eius provident unde, repudiandae necessitatibus nam voluptatem, iusto delectus! Consectetur!.</p>
+                        </div>
+            </div>
+       </div>

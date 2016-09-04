@@ -45,7 +45,7 @@
                                 
                                 <span class="code">{ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis magni fugiat fuga, recusandae ad tempora. In quasi atque repellendus enim nam earum eaque praesentium odio, rerum vitae id, quo ut. }</span>
                             </code>
-                        </pre> </div> <i class="fa fa-chevron-left fa-2x col-md-6" aria-hidden="true"></i> <i class="fa fa-chevron-right fa-2x col-md-6" aria-hidden="true"></i> </div>
+                        </pre> </div> <a href="#"><i class="fa fa-chevron-left fa-2x col-md-6" aria-hidden="true"></a></i> <a href="#"><i class="fa fa-chevron-right fa-2x col-md-6" aria-hidden="true"></i></a> </div>
                 <!-- FOOTER -->
                 <?php include 'footer.php'; ?>
     </div>

@@ -1,4 +1,4 @@
-<footer class="col-md-12 row">
+<footer class="col-md-12">
     <i class="fa fa-facebook fa-2x" aria-hidden="true">
        <a href="https://www.facebook.com/mademoiselle.prunelle/"> / facebook</a>    
     </i>

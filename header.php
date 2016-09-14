@@ -1,5 +1,5 @@
 <header id="startchange" class="container-fluid header">
-    <h1>Hello WORLD</h1>
+    <h1 class="col-md-12">Hello WORLD</h1>
     <h2>Welcome to my portfolio</h2>
     <div class="separator-header"></div>
     <div class="separator-header2"></div>

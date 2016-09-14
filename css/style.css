@@ -131,15 +131,28 @@ header p {
 /* ==================== */
 
 .polaroid {
-    height: 450px;
+    height: 425px;
     background: linear-gradient(135deg, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
     box-shadow: 10px 10px 5px -7px rgba(0,0,0,0.5);
+    margin-top: 60px;
+}
+
+.polaroid i {
+    color: white;
+}
+
+.fa {
+    display: inline-block;
 }
 
 .portfolio {
     width: 90%;
-    margin-top: 50px;
+    margin-top: 30px;
     margin-bottom: 50px;
+}
+
+.polaroid:hover {
+    transform: rotate(-1deg);
 }
 
 .projet {
@@ -148,12 +161,12 @@ header p {
     background-repeat: no-repeat;
 }
 
-.projet-present p {
+/*.projet-present p {
     width: 90%;
     text-align: center;
     color: #fff;
     cursor: default;
-}
+}*/
 
 .projet .projet-present {
     display: flex;
@@ -168,13 +181,13 @@ header p {
 .projet:hover .projet-present {
     margin: 0px;
     height: 100%;
-    background-color: yellowgreen;
-    ;
-    opacity: 10;
+    background-color: rgba(15, 15, 10, 0.8);
+    box-shadow: 0px 0px 300px 0px rgba(0,0,0,0.6) inset;
+    opacity: 5;
     transition: .3s;
 }
 
-.projet h3 {
+/*.projet h3 {
     font-size: 250%;
     color: #fff;
 }
@@ -196,7 +209,7 @@ header p {
 .projet a {
     text-align: center;
     text-decoration: none;
-}
+}*/
 
 
 /* ==================== */

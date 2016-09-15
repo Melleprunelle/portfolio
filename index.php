@@ -16,9 +16,9 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> </head>
 
 <body>
-    <div class="container-fluid">
-        <!-- NAVBAR -->
+   <!-- NAVBAR -->
         <?php include 'nav.php'; ?>
+    <div class="container-fluid">
             <!-- HEADER -->
             <?php include 'header.php'; ?>
                 <!-- PORTFOLIO -->

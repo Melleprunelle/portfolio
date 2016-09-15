@@ -220,7 +220,6 @@ header p {
     align-items: center;
     height: 100%;
     opacity: 0;
-    transition: 0.2s;
 }
 
 .projet:hover .projet-present {
@@ -229,7 +228,6 @@ header p {
     background-color: rgba(15, 15, 10, 0.8);
     box-shadow: 0px 0px 300px 0px rgba(0,0,0,0.6) inset;
     opacity: 5;
-    transition: .2s;
 }
 
 

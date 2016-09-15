@@ -19,6 +19,8 @@
    <!-- NAVBAR -->
         <?php include 'nav.php'; ?>
     <div class="container-fluid">
+
+        <?php include 'nav.php'; ?>
             <!-- HEADER -->
             <?php include 'header.php'; ?>
                 <!-- PORTFOLIO -->

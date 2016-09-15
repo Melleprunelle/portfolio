@@ -4,8 +4,8 @@
     </i>
        
     <i class="fa fa-linkedin fa-2x" aria-hidden="true">
-       <a href="https://fr.linkedin.com/in/lise-poirier-8b6316a6"> / linkedin</a>
+       <a href="    https://fr.linkedin.com/in/lise-poirier-8b6316a6"> / linkedin</a>
     </i>
     
-    <p>produced by Lise Poirier / creativecommons : CC BY-NC-ND </p>
+    <p>produced by Lise Poirier / creativeommons : CC BY-NC-ND </p>
 </footer>

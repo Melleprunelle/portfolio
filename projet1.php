@@ -22,7 +22,6 @@
             <!-- PAGE -->
             <?php include 'pagetype.php'; ?>
                 <!-- PROJET -->
-
                 <img class="img-responsive col-md-8 col-md-offset-2" src="img/img1.png" alt="">
                 </figure>
 

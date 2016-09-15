@@ -1,7 +1,7 @@
-<div class="portfolio col-xs-12 col-sm-12 col-md-10">
+<div class="portfolio col-sm-12 col-md-12">
     <div class="polaroid col-xs-12 col-sm-offset-1 col-sm-5 col-md-3">
         <a href="projet1.php">
-            <div class="projet col-md-12 col-sm-12" id="projet1">
+            <div class="projet col-md-12 col-sm-12 col-xs-12" id="projet1">
                 <div class="projet-present"> <i class="fa fa-search fa-2x" aria-hidden="true"></i> </div>
             </div>
         </a>

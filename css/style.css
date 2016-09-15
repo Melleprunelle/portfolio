@@ -156,8 +156,8 @@ header p {
     font-family: "Open Sans", sans-serif;
     padding-top: 30px;
     padding-bottom: 60px;
-    text-transform: lowercase;
     text-align: center;
+    text-transform: none;
 }
 
 /* ==================== */
@@ -355,16 +355,18 @@ pre {
     border: 0px solid white;
     height: 600px;
     margin-bottom: 50px;
+    border-bottom: 1px solid crimson;
+    border-left: 1px solid crimson;
+    border-right: 1px solid crimson;
+    margin-top: 30px;
 }
 
 pre code {
     display: block;
     background-color: white;
-    border-radius: 0%;
     border: 0px solid white;
     color: crimson;
     width: 80%;
-    margin-left: 10%;
 }
 
 .code {

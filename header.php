@@ -10,19 +10,21 @@
                    </div>
              </div>
              
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam deleniti iure aliquam quibusdam doloremque id repudiandae quae aliquid mollitia sed eaque, libero esse quo dignissimos, accusamus atque pariatur distinctio velit!</p>
+            <p>Si une image vaut mille mots, autant bien choisir les mots quand on en a peu. Mon expertise est à votre écoute avant de trouver l’idée et la traduire, en quelques mots.</p>
         </div>
         <div class="col-xs-offset-1 col-xs-10  col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-2"> <div>
                <div class="numero animation anim">2
                    </div>
              </div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem autem molestias aperiam, quae consectetur ipsam ducimus dolore minus voluptatum sunt provident libero veniam corporis laborum ut voluptatibus quia natus.</p>
+            <p>La forme passe par les formes. Diplômée en communication graphique et formée en Web-développement, j'ai aujourd'hui le sens de l'image et de l'air numérique.</p>
         </div>
         <div class="col-xs-offset-1 col-xs-10  col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-2"> <div>
                <div class="numero animation anim">3
                    </div>
              </div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus explicabo, aspernatur nobis exercitationem quis dolorem aliquid nihil assumenda deserunt eaque quo fugit nam, excepturi quasi modi debitis ex provident quae.</p>
+            <p>Un site web doit véhiculer vos valeurs et vos atouts. C’est pour cela qu’un soin particulier doit être donné au graphisme comme au contenu. Mon rôle est de répondre à ses attentes.
+
+</p>
         </div>
     </div>
     <div class="separator-header2"></div>

@@ -213,6 +213,7 @@ header p {
     height: 200px;
     background-size: cover;
     background-repeat: no-repeat;
+    position: relative;
 }
 
 .projet .projet-present {
@@ -221,12 +222,14 @@ header p {
     justify-content: center;
     align-items: center;
     height: 100%;
+    width: 100%;
     opacity: 0;
 }
 
 .projet:hover .projet-present {
     margin: 0px;
     height: 100%;
+    width: 100%;
     background-color: rgba(15, 15, 10, 0.8);
     box-shadow: 0px 0px 300px 0px rgba(0,0,0,0.6) inset;
     opacity: 5;

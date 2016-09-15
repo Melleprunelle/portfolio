@@ -5,8 +5,10 @@
                 <div class="projet-present"> <i class="fa fa-search fa-2x" aria-hidden="true"></i> </div>
             </div>
         </a>
+        <div class="description">
         <h4 class="col-md-10 col-md-offset-1">Projet</h4>
         <p class="col-md-10 col-md-offset-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis atque, pariatur repellat maxime eveniet magnam incidunt.</p>
+        </div>
     </div>
     
     <div class="polaroid col-xs-12 col-sm-offset-1 col-sm-5  col-md-3 col-md-offset-1">
@@ -15,8 +17,10 @@
                 <div class="projet-present"> <i class="fa fa-search fa-2x" aria-hidden="true"></i> </div>
             </div>
         </a>
+        <div class="description">
         <h4 class="col-md-10 col-md-offset-1">Projet</h4>
         <p class="col-md-10 col-md-offset-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis atque, pariatur repellat maxime eveniet magnam incidunt.</p>
+        </div>
     </div>
     
     <div class="polaroid col-xs-12 col-sm-offset-1 col-sm-5 col-md-3">
@@ -24,8 +28,10 @@
             <div class="projet col-md-12 col-sm-12" id="projet3">
                 <div class="projet-present"> <i class="fa fa-search fa-2x" aria-hidden="true"></i> </div>
             </div>
+        <div class="description">
         <h4 class="col-md-10 col-md-offset-1">Projet</h4>
-        <p class="col-md-10 col-md-offset-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis atque, pariatur repellat maxime eveniet magnam incidunt.</p>    
+        <p class="col-md-10 col-md-offset-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis atque, pariatur repellat maxime eveniet magnam incidunt.</p>  
+        </div>  
     </div>
     
     <div class="polaroid col-xs-12 col-sm-offset-1 col-sm-5 col-md-3">
@@ -34,8 +40,10 @@
                 <div class="projet-present"> <i class="fa fa-search fa-2x" aria-hidden="true"></i> </div>
             </div>
         </a>
+        <div class="description">
         <h4 class="col-md-10 col-md-offset-1">Projet</h4>
         <p class="col-md-10 col-md-offset-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis atque, pariatur repellat maxime eveniet magnam incidunt.</p>
+        </div>
     </div>
     
     <div class="polaroid col-xs-12 col-sm-offset-1 col-sm-5 col-md-3">
@@ -43,8 +51,10 @@
             <div class="projet col-md-12 col-sm-12" id="projet5">
                 <div class="projet-present"> <i class="fa fa-search fa-2x" aria-hidden="true"></i> </div>
             </div>
+        <div class="description">
         <h4 class="col-md-10 col-md-offset-1">Projet</h4>
         <p class="col-md-10 col-md-offset-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis atque, pariatur repellat maxime eveniet magnam incidunt.</p>
+        </div>
     </div>
     
     <div class="polaroid col-xs-12 col-sm-offset-1 col-sm-5 col-md-3">
@@ -53,8 +63,10 @@
                 <div class="projet-present"> <i class="fa fa-search fa-2x" aria-hidden="true"></i> </div>
             </div>
         </a>
+        <div class="description">
         <h4 class="col-md-10 col-md-offset-1">Projet</h4>
         <p class="col-md-10 col-md-offset-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis atque, pariatur repellat maxime eveniet magnam incidunt.</p>
+        </div>
     </div>
     
     <div class="polaroid col-xs-12 col-sm-offset-1 col-sm-5 col-md-3">
@@ -63,8 +75,10 @@
                 <div class="projet-present"> <i class="fa fa-search fa-2x" aria-hidden="true"></i> </div>
             </div>
         </a>
+        <div class="description">
         <h4 class="col-md-10 col-md-offset-1">Projet</h4>
         <p class="col-md-10 col-md-offset-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis atque, pariatur repellat maxime eveniet magnam incidunt.</p>
+        </div>
     </div>
     
     <div class="polaroid col-xs-12 col-sm-offset-1 col-sm-5 col-md-3">
@@ -73,8 +87,10 @@
                 <div class="projet-present"> <i class="fa fa-search fa-2x" aria-hidden="true"></i> </div>
             </div>
         </a>
+        <div class="description">
         <h4 class="col-md-10 col-md-offset-1">Projet</h4>
-        <p class="col-md-10 col-md-offset-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis atque, pariatur repellat maxime eveniet magnam incidunt.</p>    
+        <p class="col-md-10 col-md-offset-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis atque, pariatur repellat maxime eveniet magnam incidunt.</p>  
+        </div>  
     </div>
     
     <div class="polaroid col-xs-12 col-sm-offset-1 col-sm-5 col-md-3">
@@ -83,8 +99,10 @@
                 <div class="projet-present"> <i class="fa fa-search fa-2x" aria-hidden="true"></i> </div>
             </div>
         </a>
+        <div class="description">
         <h4 class="col-md-10 col-md-offset-1">Projet</h4>
         <p class="col-md-10 col-md-offset-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis atque, pariatur repellat maxime eveniet magnam incidunt.</p>
+        </div>
     </div>
     
     <div class="polaroid col-xs-12 col-sm-offset-1 col-sm-5 col-md-3">
@@ -93,8 +111,10 @@
                 <div class="projet-present"> <i class="fa fa-search fa-2x" aria-hidden="true"></i> </div>
             </div>
         </a>
+        <div class="description">
         <h4 class="col-md-10 col-md-offset-1">Projet</h4>
         <p class="col-md-10 col-md-offset-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis atque, pariatur repellat maxime eveniet magnam incidunt.</p>
+        </div>
     </div>
     
     <div class="polaroid col-xs-12 col-sm-offset-1 col-sm-5 col-md-3">
@@ -103,7 +123,9 @@
                 <div class="projet-present"> <i class="fa fa-search fa-2x" aria-hidden="true"></i> </div>
             </div>
         </a>
+        <div class="description">
         <h4 class="col-md-10 col-md-offset-1">Projet</h4>
         <p class="col-md-10 col-md-offset-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis atque, pariatur repellat maxime eveniet magnam incidunt.</p>
+        </div>
     </div>
 </div>

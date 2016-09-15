@@ -135,23 +135,6 @@ header i {
     text-shadow: 1px 1px 3px rgba(146, 150, 150, 1);
 }
 
-header i:hover {
-    color: yellowgreen;
-    animation-name: animation-header;
-    animation-iteration-count: infinite;
-    animation-timing-function: ease;
-    animation-duration: 5s;
-}
-
-@keyframes animation-header {
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(360deg);
-    }
-}
-
 header p {
     font-family: "Open Sans", sans-serif;
     padding-top: 30px;
@@ -447,15 +430,6 @@ footer p {
 /* ==================== */
 
 .numero{
-    width:80px;
-    height:80px;
-    background-color:crimson;
-    border-radius: 100%;
-    display:inline-block;
-    font-size:3em;
-    line-height:80px;
-    color:white;
-    text-align:center;
     transform:translateZ(0.1px);
 }
 

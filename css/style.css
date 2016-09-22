@@ -407,7 +407,7 @@ pre code {
 
 /* ==================== */
 
-.cv-header section {
+.cv {
     height: 1000px;
     margin-top: 30px;
     background: linear-gradient(50deg, rgba(255, 255, 255, 0.5) 0%, rgba(246, 246, 246, 1) 47%, rgba(237, 237, 237, 1) 100%);
@@ -418,6 +418,78 @@ pre code {
     transform: rotate(-0.3deg);
 }
 
+.categorie {
+    height: 100%;
+    border: 1px solid red;
+}
+
+.present-cv img {
+    margin-top: 50px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    border-color: 2px solid crimson;
+}
+
+.present-cv {
+    height: 35%;
+    background-color: ;
+}
+
+.present-cv p {
+    padding-top: 0px;
+    padding-bottom: 3px;
+    margin-bottom: 0px;
+    color: crimson;
+    font-size: 0.9em;
+}
+
+.present-cv a {
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-decoration: none;
+    color: crimson;
+    font-size: 1.2em;
+    cursor: pointer;
+    text-transform: lowercase;
+}
+
+.present-cv h3 {
+    color: crimson;
+    text-align: center;
+}
+
+
+.competences {
+    height: 65%;
+    background-color: crimson;
+}
+
+.aptitude i {
+    margin-top: 15px;
+    color: white;
+    font-size: 1.4em;
+}
+
+.creative {
+    height: 2px;
+    background-color: white;
+}
+
+.aptitude p {
+    margin-top: 15px;
+    margin-bottom: 3px;
+    color: white;
+}
+
+.competences h4 {
+    margin-top: 15px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+    text-align: left;
+    color: white;
+}
 
 /* ==================== */
 

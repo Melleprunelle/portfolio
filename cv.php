@@ -24,7 +24,7 @@
                         </div>
                         <div class="competences col-md-12">
                             <div class="aptitude">
-                               <i class="fa fa-cog col-md-offset-1 col-md-1" aria-hidden="true"></i>
+                                <i class="fa fa-cog col-md-offset-1 col-md-1" aria-hidden="true"></i>
                                 <h4 class="col-md-9"> - Aptitudes</h4>
                                 <p class="col-md-offset-2">Créativité - 90%</p>
                                 <div class="pourcentage-cv col-md-offset-2 col-md-9"></div>
@@ -33,26 +33,26 @@
                                 <p class="col-md-offset-2">Gestion Projet - 80%</p>
                                 <div class="pourcentage-cv col-md-offset-2 col-md-7"></div>
                                 <p class="col-md-offset-2">Esprit d'équipe - 75%</p>
-                                <div class="pourcentage-cv col-md-offset-2 col-md-6"></div>                                <p class="col-md-offset-2">Curiosité - 85%</p>
+                                <div class="pourcentage-cv col-md-offset-2 col-md-6"></div>
+                                <p class="col-md-offset-2">Curiosité - 85%</p>
                                 <div class="pourcentage-cv col-md-offset-2 col-md-8"></div>
                                 <p class="col-md-offset-2">Organisation - 80%</p>
                                 <div class="pourcentage-cv col-md-offset-2 col-md-7"></div>
                             </div>
-                            
+
                             <div class="techno">
-                               <i class="fa fa-cog col-md-offset-1 col-md-1" aria-hidden="true"></i>
+                                <i class="fa fa-th col-md-offset-1 col-md-1" aria-hidden="true"></i>
                                 <h4 class="col-md-9"> - Technos</h4>
                                 <p class="col-md-offset-2">HTML5 / CSS3 - 90%</p>
                                 <div class="pourcentage-cv col-md-offset-2 col-md-9"></div>
-                                <p class="col-md-offset-2">JS - 90%</p>
-                                <div class="pourcentage-cv col-md-offset-2 col-md-9"></div>
-                                <p class="col-md-offset-2">Jquerry - 80%</p>
-                                <div class="pourcentage-cv col-md-offset-2 col-md-7"></div>
-                                <p class="col-md-offset-2">Création Worpress - 75%</p>
-                                <div class="pourcentage-cv col-md-offset-2 col-md-6"></div>                                <p class="col-md-offset-2">Bootstrap - 85%</p>
+                                <p class="col-md-offset-2">JS - 50%</p>
+                                <div class="pourcentage-cv col-md-offset-2 col-md-5"></div>
+                                <p class="col-md-offset-2">Jquerry - 40%</p>
+                                <div class="pourcentage-cv col-md-offset-2 col-md-4"></div>
+                                <p class="col-md-offset-2">Création Worpress - 70%</p>
+                                <div class="pourcentage-cv col-md-offset-2 col-md-6"></div>
+                                <p class="col-md-offset-2">Bootstrap - 85%</p>
                                 <div class="pourcentage-cv col-md-offset-2 col-md-8"></div>
-                                <p class="col-md-offset-2">Organisation - 80%</p>
-                                <div class="pourcentage-cv col-md-offset-2 col-md-7"></div>
                                 <p class="col-md-offset-2">Photoshop - 80%</p>
                                 <div class="pourcentage-cv col-md-offset-2 col-md-7"></div>
                                 <p class="col-md-offset-2">Illustrator - 80%</p>
@@ -60,13 +60,26 @@
                                 <p class="col-md-offset-2">Indesign - 80%</p>
                                 <div class="pourcentage-cv col-md-offset-2 col-md-7"></div>
                             </div>
+                            
+                            <div class="contact">
+                                <i class="fa fa-map-marker  col-md-offset-1 col-md-1" aria-hidden="true"></i>
+                                <h4 class="col-md-10"> - Contact</h4>
+                                <p class="col-md-offset-2">5 allée du Tage - 3500 Rennes</p>
+                                <a href="mailto:lise.p.poirier@gmail.com">
+                                    <p class="col-md-offset-2">lise.p.poirier@gmail.com</p>
+                                </a>
+                                <p class="col-md-offset-2">06 52 84 43 53</p>
+                            </div>
                         </div>
+
+
                     </div>
-                    <div class="categorie col-md-9"></div>
-                </section>
-                <!-- FOOTER -->
-                <?php include 'footer.php'; ?>
         </div>
-        </body>
+        <div class="categorie col-md-9"></div>
+        </section>
+        <!-- FOOTER -->
+        <?php include 'footer.php'; ?>
+            </div>
+            </body>
 
 </html>

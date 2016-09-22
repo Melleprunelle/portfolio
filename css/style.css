@@ -408,19 +408,17 @@ pre code {
 /* ==================== */
 
 .cv {
-    height: 1000px;
     margin-top: 30px;
     background: linear-gradient(50deg, rgba(255, 255, 255, 0.5) 0%, rgba(246, 246, 246, 1) 47%, rgba(237, 237, 237, 1) 100%);
     box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.5);
 }
 
-.cv-header section:hover {
+.cv:hover {
     transform: rotate(-0.3deg);
 }
 
-.categorie {
-    height: 100%;
-    border: 1px solid red;
+.present-cv {
+    border-right: 1px solid lightgrey;
 }
 
 .present-cv img {
@@ -429,11 +427,6 @@ pre code {
     height: 150px;
     border-radius: 100%;
     border-color: 2px solid crimson;
-}
-
-.present-cv {
-    height: 35%;
-    background-color: ;
 }
 
 .present-cv p {
@@ -447,7 +440,7 @@ pre code {
 .present-cv a {
     text-align: center;
     padding-top: 0px;
-    padding-bottom: 0px;
+    padding-bottom: 30px;
     text-decoration: none;
     color: crimson;
     font-size: 1.2em;
@@ -460,10 +453,22 @@ pre code {
     text-align: center;
 }
 
-
 .competences {
     height: 65%;
     background-color: crimson;
+}
+
+.competences h4 {
+    margin-top: 15px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+    text-align: left;
+    color: white;
+}
+
+.pourcentage-cv {
+    height: 2px;
+    background-color: white;
 }
 
 .aptitude i {
@@ -472,22 +477,21 @@ pre code {
     font-size: 1.4em;
 }
 
-.creative {
-    height: 2px;
-    background-color: white;
-}
-
 .aptitude p {
     margin-top: 15px;
     margin-bottom: 3px;
     color: white;
 }
 
-.competences h4 {
+.techno i {
     margin-top: 15px;
-    margin-left: 0px;
-    margin-bottom: 20px;
-    text-align: left;
+    color: white;
+    font-size: 1.4em;
+}
+
+.techno p {
+    margin-top: 15px;
+    margin-bottom: 3px;
     color: white;
 }
 

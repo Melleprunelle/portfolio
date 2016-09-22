@@ -27,17 +27,38 @@
                                <i class="fa fa-cog col-md-offset-1 col-md-1" aria-hidden="true"></i>
                                 <h4 class="col-md-9"> - Aptitudes</h4>
                                 <p class="col-md-offset-2">Créativité - 90%</p>
-                                <div class="creative col-md-offset-2 col-md-9"></div>
+                                <div class="pourcentage-cv col-md-offset-2 col-md-9"></div>
                                 <p class="col-md-offset-2">Détermination - 90%</p>
-                                <div class="creative col-md-offset-2 col-md-9"></div>
+                                <div class="pourcentage-cv col-md-offset-2 col-md-9"></div>
                                 <p class="col-md-offset-2">Gestion Projet - 80%</p>
-                                <div class="creative col-md-offset-2 col-md-7"></div>
+                                <div class="pourcentage-cv col-md-offset-2 col-md-7"></div>
                                 <p class="col-md-offset-2">Esprit d'équipe - 75%</p>
-                                <div class="creative col-md-offset-2 col-md-6"></div>                                <p class="col-md-offset-2">Curiosité - 85%</p>
-                                <div class="creative col-md-offset-2 col-md-8"></div>
+                                <div class="pourcentage-cv col-md-offset-2 col-md-6"></div>                                <p class="col-md-offset-2">Curiosité - 85%</p>
+                                <div class="pourcentage-cv col-md-offset-2 col-md-8"></div>
                                 <p class="col-md-offset-2">Organisation - 80%</p>
-                                <div class="creative col-md-offset-2 col-md-7"></div>
-
+                                <div class="pourcentage-cv col-md-offset-2 col-md-7"></div>
+                            </div>
+                            
+                            <div class="techno">
+                               <i class="fa fa-cog col-md-offset-1 col-md-1" aria-hidden="true"></i>
+                                <h4 class="col-md-9"> - Technos</h4>
+                                <p class="col-md-offset-2">HTML5 / CSS3 - 90%</p>
+                                <div class="pourcentage-cv col-md-offset-2 col-md-9"></div>
+                                <p class="col-md-offset-2">JS - 90%</p>
+                                <div class="pourcentage-cv col-md-offset-2 col-md-9"></div>
+                                <p class="col-md-offset-2">Jquerry - 80%</p>
+                                <div class="pourcentage-cv col-md-offset-2 col-md-7"></div>
+                                <p class="col-md-offset-2">Création Worpress - 75%</p>
+                                <div class="pourcentage-cv col-md-offset-2 col-md-6"></div>                                <p class="col-md-offset-2">Bootstrap - 85%</p>
+                                <div class="pourcentage-cv col-md-offset-2 col-md-8"></div>
+                                <p class="col-md-offset-2">Organisation - 80%</p>
+                                <div class="pourcentage-cv col-md-offset-2 col-md-7"></div>
+                                <p class="col-md-offset-2">Photoshop - 80%</p>
+                                <div class="pourcentage-cv col-md-offset-2 col-md-7"></div>
+                                <p class="col-md-offset-2">Illustrator - 80%</p>
+                                <div class="pourcentage-cv col-md-offset-2 col-md-7"></div>
+                                <p class="col-md-offset-2">Indesign - 80%</p>
+                                <div class="pourcentage-cv col-md-offset-2 col-md-7"></div>
                             </div>
                         </div>
                     </div>

@@ -413,10 +413,6 @@ pre code {
     box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.5);
 }
 
-.cv:hover {
-    transform: rotate(-0.3deg);
-}
-
 .present-cv {
     border-right: 1px solid lightgrey;
 }
@@ -426,7 +422,6 @@ pre code {
     width: 150px;
     height: 150px;
     border-radius: 100%;
-    border-color: 2px solid crimson;
 }
 
 .present-cv p {
@@ -523,6 +518,42 @@ pre code {
 .contact a {
     text-decoration: none;
 }
+
+.experience {
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+.experience i {
+    color: crimson;
+    font-size: 1.7em;
+    margin-top: 5px;
+}
+
+.experience h4 {
+    color: crimson;
+    font-weight: 600;
+}
+
+.experience h5 {
+    margin-top: 20px;
+    color: crimson;
+    font-size: 1.3em;
+}
+
+.experience small {
+    color: crimson;
+}
+
+.experience p {
+    text-align: left;
+}
+
+.separator-cv {
+    height: 1px;
+    background-color: crimson;
+}
+
 
 /* ==================== */
 

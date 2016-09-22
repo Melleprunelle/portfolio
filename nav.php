@@ -13,7 +13,8 @@
     <link rel="stylesheet" type="text/css" href="css/style.css" />
     <!-- Fonts -->
     <link type="text/css" rel="stylesheet" href="css/font-awesome.css" />
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> </head>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+</head>
 
 <body>
     <nav class="navbar-fixed-top">

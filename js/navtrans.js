@@ -17,6 +17,7 @@ $(document).ready(function () {
                 $(".navbar-brand").removeClass('change');
                 $(".liens_nav").removeClass('change');
                 $(".navbar-header").removeClass('change');
+                $('.navbar-collapse').removeClass('change');
             }
         });
     }

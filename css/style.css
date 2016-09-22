@@ -7,8 +7,13 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
+
 /* ==================== */
+
+
 /* ======= NAV ======== */
+
+
 /* ==================== */
 
 #startbootstrap_nav {
@@ -74,20 +79,23 @@ body {
 
 .navbar-collapse {
     border-bottom: 1px solid crimson;
-
 }
 
 .navbar-collapse.change {
     border-bottom: 0px solid crimson;
-
 }
 
 .navbar-header.change {
     opacity: 0;
 }
 
+
 /* ==================== */
+
+
 /* ===== HEADER ======= */
+
+
 /* ==================== */
 
 header {
@@ -143,14 +151,33 @@ header p {
     text-transform: none;
 }
 
+
 /* ==================== */
+
+
 /* ===== PORTFOLIO ==== */
+
+
 /* ==================== */
+
+.menu {
+    text-align: center;
+}
+
+.menu li {
+    display: inline-block;
+    margin: 10px;
+    color: crimson;
+    text-transform: capitalize;
+    cursor: pointer;
+    font-size: 1.1em;
+    font-weight: 500;
+}
 
 .polaroid {
     height: 380px;
-    background: linear-gradient(50deg, rgba(255,255,255,0.5) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
-    box-shadow: 10px 10px 5px -7px rgba(0,0,0,0.5);
+    background: linear-gradient(50deg, rgba(255, 255, 255, 0.5) 0%, rgba(246, 246, 246, 1) 47%, rgba(237, 237, 237, 1) 100%);
+    box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.5);
     margin-top: 60px;
 }
 
@@ -217,13 +244,18 @@ header p {
     height: 100%;
     width: 100%;
     background-color: rgba(15, 15, 10, 0.8);
-    box-shadow: 0px 0px 300px 0px rgba(0,0,0,0.6) inset;
+    box-shadow: 0px 0px 300px 0px rgba(0, 0, 0, 0.6) inset;
     opacity: 5;
+    cursor: pointer;
 }
 
 
 /* ==================== */
+
+
 /* ====== PROJET ====== */
+
+
 /* ==================== */
 
 #projet1 {
@@ -279,8 +311,13 @@ header p {
     background-position: center;
 }
 
+
 /* ==================== */
-/* ===== PAGETYPE ===== */
+
+
+/* ===== CREATEPRO ===== */
+
+
 /* ==================== */
 
 .page p {
@@ -300,7 +337,8 @@ header p {
     height: 100%;
 }
 
-.fa-chevron-right, .fa-chevron-left {
+.fa-chevron-right,
+.fa-chevron-left {
     color: crimson;
     text-align: center;
     margin-bottom: 50px;
@@ -362,7 +400,31 @@ pre code {
 
 
 /* ==================== */
+
+
+/* ======== CV ======== */
+
+
+/* ==================== */
+
+.cv-header section {
+    height: 1000px;
+    margin-top: 30px;
+    background: linear-gradient(50deg, rgba(255, 255, 255, 0.5) 0%, rgba(246, 246, 246, 1) 47%, rgba(237, 237, 237, 1) 100%);
+    box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.5);
+}
+
+.cv-header section:hover {
+    transform: rotate(-0.3deg);
+}
+
+
+/* ==================== */
+
+
 /* ====== CONTACT ===== */
+
+
 /* ==================== */
 
 label {
@@ -384,7 +446,11 @@ button:hover {
 
 
 /* ==================== */
+
+
 /* ====== FOOTER ====== */
+
+
 /* ==================== */
 
 footer {
@@ -426,11 +492,15 @@ footer p {
 
 
 /* ==================== */
+
+
 /* ===== ANIMATION ==== */
+
+
 /* ==================== */
 
-.numero{
-    transform:translateZ(0.1px);
+.numero {
+    transform: translateZ(0.1px);
 }
 
 .animation {
@@ -439,12 +509,12 @@ footer p {
 }
 
 @@-webkit-keyframes anim {
-     0% {
-        transform: scale(0) rotate(-180deg) ; 
-        opacity: 0;            
+    0% {
+        transform: scale(0) rotate(-180deg);
+        opacity: 0;
     }
     50% {
-        transform: scale(1) rotate(0deg) ;   
+        transform: scale(1) rotate(0deg);
         opacity: 1;
     }
     70% {
@@ -455,54 +525,54 @@ footer p {
     }
 }
 
-
 @-moz-keyframes anim {
     0% {
         transform: scale(0) rotate(-180deg);
-        opacity: 0;            
+        opacity: 0;
     }
     50% {
         transform: scale(1) rotate(0deg);
         opacity: 1;
     }
-    70%{
-         transform: scale(1) rotate(0deg);
+    70% {
+        transform: scale(1) rotate(0deg);
     }
     100% {
-        transform: scale(0.8) rotate(0deg); 
+        transform: scale(0.8) rotate(0deg);
     }
 }
+
 @-o-keyframes anim {
     0% {
         transform: scale(0) rotate(-180deg);
-        opacity: 0;            
+        opacity: 0;
     }
     50% {
         transform: scale(1) rotate(0deg);
         opacity: 1;
     }
-    70%{
-         transform: scale(1) rotate(0deg);
+    70% {
+        transform: scale(1) rotate(0deg);
     }
     100% {
-        transform: scale(0.8) rotate(0deg); 
+        transform: scale(0.8) rotate(0deg);
     }
 }
 
 @keyframes anim {
     0% {
-        transform: scale(0) rotate(-180deg);         
-        opacity: 0;            
+        transform: scale(0) rotate(-180deg);
+        opacity: 0;
     }
     50% {
-        transform: scale(1) rotate(0deg);                    
+        transform: scale(1) rotate(0deg);
         opacity: 1;
     }
-    70%{
-         transform: scale(1) rotate(0deg);
+    70% {
+        transform: scale(1) rotate(0deg);
     }
     100% {
-        transform: scale(0.8) rotate(0deg); 
+        transform: scale(0.8) rotate(0deg);
     }
 }
 
@@ -510,4 +580,3 @@ footer p {
     backface-visibility: visible !important;
     animation-name: anim;
 }
-

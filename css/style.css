@@ -409,12 +409,17 @@ pre code {
 
 .cv {
     margin-top: 30px;
-    background: linear-gradient(50deg, rgba(255, 255, 255, 0.5) 0%, rgba(246, 246, 246, 1) 47%, rgba(237, 237, 237, 1) 100%);
+    background: linear-gradient(50deg, rgba(255, 255, 255, 0.2) 0%, rgba(246, 246, 246, 0.3) 47%, rgba(237, 237, 237, 0.3) 100%);
     box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.5);
+    height: 1650px;
+}
+
+.categorie {
 }
 
 .present-cv {
     border-right: 1px solid lightgrey;
+    height: 350px;
 }
 
 .present-cv img {
@@ -449,8 +454,9 @@ pre code {
 }
 
 .competences {
-    height: 65%;
+    height: 1300px;
     background-color: crimson;
+    border-right: 1px solid lightgrey;
 }
 
 .competences h4 {
@@ -519,8 +525,28 @@ pre code {
     text-decoration: none;
 }
 
+.presentation-cv {
+    padding-top: 40px;
+}
+
+.presentation-cv i {
+    color: crimson;
+    font-size: 1.7em;
+    margin-top: 5px;
+}
+
+.presentation-cv h4 {
+    color: crimson;
+    font-weight: 600;
+}
+
+.presentation-cv h5 {
+    margin-top: 20px;
+    color: crimson;
+    font-size: 1.3em;
+}
+
 .experience {
-    padding-bottom: 40px;
     padding-top: 40px;
 }
 
@@ -545,13 +571,48 @@ pre code {
     color: crimson;
 }
 
-.experience p {
-    text-align: left;
+.formation i {
+    color: crimson;
+    font-size: 1.7em;
+    margin-top: 5px;
+}
+
+.formation {
+    padding-top: 40px;
+}
+
+.formation h4 {
+    color: crimson;
+    font-weight: 600;
+}
+
+.formation h5 {
+    margin-top: 20px;
+    color: crimson;
+    font-size: 1.3em;
+}
+
+.formation small {
+    color: crimson;
 }
 
 .separator-cv {
     height: 1px;
     background-color: crimson;
+}
+
+.competences button {
+    color: white;
+    background-color: crimson;
+    border: 1px solid white;
+    margin-top: 20px;
+    border-radius: 0px;
+}
+
+.competences button:hover {
+    color: crimson;
+    background-color: white;
+    border: 1px solid white;
 }
 
 

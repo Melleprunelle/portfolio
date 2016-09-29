@@ -29,8 +29,6 @@
             <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="active"><a class="liens_nav" href="index.php">ACCUEIL</a></li>
-                    <li class="active"><a class="liens_nav" href="#">WEB</a></li>
-                    <li class="active"><a class="liens_nav" href="#">GRAPHISME</a></li>
                     <li class="active"><a class="liens_nav" href="cv.php">C.V</a></li>
                     <li class="active"><a class="liens_nav" href="contact.php">CONTACT</a></li>
                 </ul>

@@ -8,14 +8,26 @@
 <div class="portfolio col-sm-12 col-md-12">
 
     <div class="polaroid col-xs-12 col-sm-offset-1 col-sm-5 col-md-3">
-        <a href="projet1.php">
-            <div class="projet col-md-12 col-sm-12" id="projet7">
+        <a href="anagramme.php">
+            <div class="projet col-md-12 col-sm-12" id="projet10">
                 <div class="projet-present"> <i class="fa fa-search fa-2x" aria-hidden="true"></i> </div>
             </div>
         </a>
         <div class="description">
-            <h4 class="col-md-10 col-md-offset-1">POMODORO</h4>
-            <p class="col-md-10 col-md-offset-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis atque, pariatur repellat maxime eveniet magnam incidunt.</p>
+            <h4 class="col-md-10 col-md-offset-1">FONCTION ANAGRAMME JS</h4>
+            <p class="col-md-10 col-md-offset-1">Réalisation d'une fonction pour trouver un anagramme en JS. Testé et validé par test Jasmine.</p>
+        </div>
+    </div>
+       
+    <div class="polaroid col-xs-12 col-sm-offset-1 col-sm-5 col-md-3">
+        <a href="poneyclicker.php">
+            <div class="projet col-md-12 col-sm-12" id="projet9">
+                <div class="projet-present"> <i class="fa fa-search fa-2x" aria-hidden="true"></i> </div>
+            </div>
+        </a>
+        <div class="description">
+            <h4 class="col-md-10 col-md-offset-1">LE PONEY CLICKER</h4>
+            <p class="col-md-10 col-md-offset-1">Mise en place de la techno JS au travers d'un poney clicker basique. C'est exactement le même principe qu'un cookie clicker mais avec un little poney.</p>
         </div>
     </div>
 

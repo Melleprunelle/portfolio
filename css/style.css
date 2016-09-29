@@ -311,6 +311,11 @@ header p {
     background-position: center;
 }
 
+#projet10 {
+    background-image: url(../img/img-11.png);
+    background-position: center;
+}
+
 
 /* ==================== */
 
@@ -380,6 +385,7 @@ pre {
     border-left: 1px solid crimson;
     border-right: 1px solid crimson;
     margin-top: 30px;
+    overflow-x: hidden;
 }
 
 pre code {

@@ -711,9 +711,9 @@ footer {
                     </code>
                 </pre>
     </div>
-    <a href="#">
+    <a href="poneyclicker.php">
         <i class="fa fa-chevron-left fa-2x col-md-6 col-sm-6 col-xs-6" aria-hidden="true"></i></a>
-    <a href="#">
+    <a href="startbootstrap.php">
         <i class="fa fa-chevron-right fa-2x col-md-6 col-sm-6 col-xs-6" aria-hidden="true"></i></a>
 
     <!-- FOOTER -->

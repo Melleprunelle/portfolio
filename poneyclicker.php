@@ -200,9 +200,9 @@ function incrementer() {
                     </code>
                 </pre>
     </div>
-    <a href="#">
+    <a href="anagramme.php">
         <i class="fa fa-chevron-left fa-2x col-md-6 col-sm-6 col-xs-6" aria-hidden="true"></i></a>
-    <a href="#">
+    <a href="audiotheme.php">
         <i class="fa fa-chevron-right fa-2x col-md-6 col-sm-6 col-xs-6" aria-hidden="true"></i></a>
 
     <!-- FOOTER -->

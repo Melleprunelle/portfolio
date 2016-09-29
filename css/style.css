@@ -187,7 +187,7 @@ header p {
 }
 
 .description {
-    padding: 25px;
+    padding: 15px;
     display: flex;
     flex-direction: column;
 }
@@ -313,6 +313,11 @@ header p {
 
 #projet10 {
     background-image: url(../img/img-11.png);
+    background-position: center;
+}
+
+#projet11 {
+    background-image: url(../img/img12.png);
     background-position: center;
 }
 

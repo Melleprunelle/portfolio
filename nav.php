@@ -23,7 +23,7 @@
 
                 <button type="button" class="navbar-toggle bouton_nav" data-toggle="collapse" data-target="#myNavbar"> <span class="icon-bar icon_nav"></span> <span class="icon-bar icon_nav"></span> <span class="icon-bar icon_nav"></span> </button>
 
-                <a id="startbootstrap_nav" class="navbar-brand" href="index.php">hello word</a>
+                <a id="startbootstrap_nav" class="navbar-brand" href="index.php">hello world</a>
             </div>
 
             <div class="collapse navbar-collapse" id="myNavbar">

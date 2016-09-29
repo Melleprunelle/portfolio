@@ -7,6 +7,54 @@
 
 <div class="portfolio col-sm-12 col-md-12">
 
+<div class="polaroid col-xs-12 col-sm-offset-1 col-sm-5 col-md-3">
+        <a href="poledance.php">
+            <div class="projet col-md-12 col-sm-12" id="projet11">
+                <div class="projet-present"> <i class="fa fa-search fa-2x" aria-hidden="true"></i> </div>
+            </div>
+        </a>
+        <div class="description">
+            <h4 class="col-md-10 col-md-offset-1">PÔLE DANCE - EN COURS</h4>
+            <p class="col-md-10 col-md-offset-1">Réalisation et création d'un site internet pour une école de pôle dance dans la métropole de l'ouest. L'aperçu si-dessus est le site actuel sans intervention.</p>
+        </div>
+    </div>
+    
+  <div class="polaroid col-xs-12 col-sm-offset-1 col-sm-5 col-md-3">
+        <a href="123veto.php">
+            <div class="projet col-md-12 col-sm-12" id="projet8">
+                <div class="projet-present"> <i class="fa fa-search fa-2x" aria-hidden="true"></i> </div>
+            </div>
+        </a>
+        <div class="description">
+            <h4 class="col-md-10 col-md-offset-1">123VETO - EN COURS</h4>
+            <p class="col-md-10 col-md-offset-1">Réalisation et création d'un site internet pour une clinique vétérinaire basé en Loire-Atlantique.</p>
+        </div>
+    </div>
+    
+   <div class="polaroid col-xs-12 col-sm-offset-1 col-sm-5 col-md-3">
+        <a href="pomodoro.php">
+            <div class="projet col-md-12 col-sm-12" id="projet7">
+                <div class="projet-present"> <i class="fa fa-search fa-2x" aria-hidden="true"></i> </div>
+            </div>
+        </a>
+        <div class="description">
+            <h4 class="col-md-10 col-md-offset-1">POMODORO</h4>
+            <p class="col-md-10 col-md-offset-1">Réalisation d'une application de Pomodoro pour l'organisation du travail.</p>
+        </div>
+    </div>
+       
+    <div class="polaroid col-xs-12 col-sm-offset-1 col-sm-5 col-md-3">
+        <a href="quizz.php">
+            <div class="projet col-md-12 col-sm-12" id="projet5">
+                <div class="projet-present"> <i class="fa fa-search fa-2x" aria-hidden="true"></i> </div>
+            </div>
+        </a>
+        <div class="description">
+            <h4 class="col-md-10 col-md-offset-1">QUIZZ JS</h4>
+            <p class="col-md-10 col-md-offset-1">Réalisation d'un quizz à score en JS, HTML5 et CSS3.</p>
+        </div>
+    </div>
+    
     <div class="polaroid col-xs-12 col-sm-offset-1 col-sm-5 col-md-3">
         <a href="anagramme.php">
             <div class="projet col-md-12 col-sm-12" id="projet10">
@@ -27,7 +75,7 @@
         </a>
         <div class="description">
             <h4 class="col-md-10 col-md-offset-1">LE PONEY CLICKER</h4>
-            <p class="col-md-10 col-md-offset-1">Mise en place de la techno JS au travers d'un poney clicker basique. C'est exactement le même principe qu'un cookie clicker mais avec un little poney.</p>
+            <p class="col-md-10 col-md-offset-1">Mise en place de la techno JS au travers d'un poney clicker basique. C'est le même principe qu'un cookie clicker mais avec un little poney.</p>
         </div>
     </div>
 
